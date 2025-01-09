@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/woll-an/WebXR-Measure#readme",
   "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "babel-loader": "^8.3.0",
     "css-loader": "^3.6.0",
     "html-webpack-plugin": "^4.3.0",
     "style-loader": "^1.2.1",
